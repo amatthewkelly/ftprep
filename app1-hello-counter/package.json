@@ -1,5 +1,16 @@
 {
+  "name": "app1-hello-counter",
+  "version": "1.0.0",
+  "description": "readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node index.js --watch"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }
