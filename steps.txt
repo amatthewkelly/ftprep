@@ -1,4 +1,5 @@
 
 - make project folder
 - connect to github
-- npm install express for backend
+- npm init (-y)
+- npm install express 
